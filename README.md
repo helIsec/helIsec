@@ -2,12 +2,16 @@
 
 **Languages I Know**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C#/C#.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://hellsec.cf/Icons/java.png"></code><br>
+
+<code><img height="20" src="https://hellsec.cf/Icons/html-1.png"></code><br>
+
+<code><img height="20" src="https://hellsec.cf/Icons/mysql-2.png"></code><br>
+
+<code><img height="20" src="https://hellsec.cf/Icons/php.png"></code><br>
+
+<code><img height="20" src="https://hellsec.cf/Icons/java.png"></code><br>
+
 
 <a href="https://github.com/Hell-Sec">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hell-Sec&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="HellSecs's stats" />
