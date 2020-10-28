@@ -2,15 +2,11 @@
 
 **Languages I Know**
 
-<code><img height="20" src="https://hellsec.cf/Icons/java.png"></code><br>
-
-<code><img height="20" src="https://hellsec.cf/Icons/html-1.png"></code><br>
-
-<code><img height="20" src="https://hellsec.cf/Icons/mysql-2.png"></code><br>
-
-<code><img height="20" src="https://hellsec.cf/Icons/php.png"></code><br>
-
-<code><img height="20" src="https://hellsec.cf/Icons/java.png"></code><br>
+<code><img height="50" src="https://hellsec.cf/Icons/java.png"></code><br>
+<code><img height="50" src="https://hellsec.cf/Icons/html-1.png"></code><br>
+<code><img height="50" src="https://hellsec.cf/Icons/mysql-2.png"></code><br>
+<code><img height="50" src="https://hellsec.cf/Icons/php.png"></code><br>
+<code><img height="50" src="https://hellsec.cf/Icons/java.png"></code><br>
 
 
 <a href="https://github.com/Hell-Sec">
