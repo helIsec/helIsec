@@ -1,14 +1,13 @@
-<div align="center">
-  <h2>Hello, I'm Iris, HellSec, rpie, or what ever you wanna call me</h2>
-</div>
+-----------
+<p align="center">
+    <img src="https://i.imgur.com/74dUv88.png"></a>
+</p>
 
-***
+<p align="center">
+    <a href="https://discordapp.com/users/813472114102632468">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-HellSec%230001-0d1117?style=for-the-badge&logo=discord&logoColor=0d1117&logoWidth=20&labelColor=000'"></a> 
+    <br><br>
+    <img alt="Social" src="https://img.shields.io/github/followers/rpie?style=for-the-badge&color=0d1117&label=Follow%20Me&logoColor=0d1117&logo=github"></a>  
+</p>
 
-<div align="center">
-  
-![HellSecs's GitHub stats](https://github-readme-stats.vercel.app/api/?username=rpie&show_icons=true&title_color=9f9f9f&icon_color=cdcdcd&text_color=9f9f9f&bg_color=090c10)
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpie&layout=compact&show_icons=true&title_color=9f9f9f&icon_color=cdcdcd&text_color=9f9f9f&)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+</pre>
