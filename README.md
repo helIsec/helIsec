@@ -1,13 +1,28 @@
-<p align="center">
-    <img src="https://i.imgur.com/74dUv88.png"></a>
-</p>
+<img align="left" style="width: 200px;" src="https://github.com/rpie/rpie/blob/main/github%20logo.png?raw=true">
 
-<p align="center">
-    <a href="https://discordapp.com/users/814679430202130473">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-HellSec%230001-0d1117?style=for-the-badge&logo=discord&logoColor=0d1117&logoWidth=20&labelColor=000'"></a> 
-    <br><br>
-    <a href="https://github.com/rpie/">
-    <img alt="Social" src="https://img.shields.io/github/followers/rpie?style=for-the-badge&color=0d1117&label=Follow%20Me&logoColor=0d1117&logo=github"></a>  
-</p>
+### HellSec
 
-</pre>
+Hello! I'm Tristan, commonly known as HellSec, and I'm a student at LATTC.
+
+Currently, I'm studying C++, C, and Rust.
+
+HellSec#6666 is my Discord!
+
+<br><br>
+=========================================
+### My knowledge
+
+| Language | Infomation |
+| --- | --- |
+| Python | Most of my projects are currently in python due to usage and accessibility |
+| GoLang | Basic usage and knowledge in this language |
+| Web PHP | Advanced usage and knowledge in PHP for creating backend and frontend for websites |
+
+
+### My Favorite Projects
+
+| Language | Infomation |
+| --- | --- |
+| IRIS OSINT | An open-source OSINT framework with modules for scraping websites and retrieving data from APIs to discover information on a target. |
+| HellCord Client | When I was studying Javascript, I created a customized Discord client with all the functionality I required. |
+| Minecraft SS | A Minecraft session grabber which utilizes authentication hijacking and supports multiple operating systems. |
