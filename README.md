@@ -6,7 +6,7 @@ Hello! I'm Tristan, commonly known as HellSec, and I'm a student at LATTC.
 
 Currently, I'm studying C++, C, and Rust.
 
-HellSec#6666 is my Discord!
+HellSec#1337 is my Discord!
 
 <br><br>
 =========================================
