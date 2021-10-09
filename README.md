@@ -1,5 +1,9 @@
 <img align="left" style="width: 200px;" src="https://github.com/rpie/rpie/blob/main/github%20logo.png?raw=true">
 
+
+![](https://komarev.com/ghpvc/?username=rpie&style=flat-square)
+
+
 ### HellSec
 
 Hello! I'm Tristan, commonly known as HellSec, and I'm a student at LATTC.
