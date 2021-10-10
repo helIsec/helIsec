@@ -5,7 +5,7 @@ Currently, I'm studying C++, C, and Rust.</p>
 <p>HellSec#1337 is my Discord!</p>
 <br><br><br>
 <hr>
-<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rpie&bg_color=0D1117&color=b4b4b4&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rpie&bg_color=0D1117&color=b4b4b4&line=F85D7F&point=b4b4b4&hide_border=true" />
 </p>
 <hr>
 <br><br>
